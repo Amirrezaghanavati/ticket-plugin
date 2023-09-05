@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Capa_1" enable-background="new 0 0 515.555 515.555" height="512" viewBox="0 0 515.555 515.555" width="512"><g><path d="m303.347 18.875c25.167 25.167 25.167 65.971 0 91.138s-65.971 25.167-91.138 0-25.167-65.971 0-91.138c25.166-25.167 65.97-25.167 91.138 0" data-original="#000000" class="active-path" style="fill:#8D99A9" data-old_color="#000000"/><path d="m303.347 212.209c25.167 25.167 25.167 65.971 0 91.138s-65.971 25.167-91.138 0-25.167-65.971 0-91.138c25.166-25.167 65.97-25.167 91.138 0" data-original="#000000" class="active-path" style="fill:#8D99A9" data-old_color="#000000"/><path d="m303.347 405.541c25.167 25.167 25.167 65.971 0 91.138s-65.971 25.167-91.138 0-25.167-65.971 0-91.138c25.166-25.167 65.97-25.167 91.138 0" data-original="#000000" class="active-path" style="fill:#8D99A9" data-old_color="#000000"/><style id="stylus-1" type="text/css" class="stylus active-path" style="">.ticket__product-domain {
+    background-color: #fea000;
+    border-color: #fea000;
+    color: #fff;
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    z-index: 99;
+}
+.ticket__product-domain a {
+    color: #fff;
+}
+.ticket__product-name {
+    background-color: #fea000;
+    border-color: #fea000;
+    color: #fff;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    z-index: 99;
+    border-radius: 3px;
+    padding: 9px 20px;
+}
+.ticket__product-name a {
+    color: #fff;
+}
+.ticket__product-name a:hover {
+    color: #fff;
+}
+.predefined-answer__item {
+    height: 48px;
+    margin: 10px 5px;
+}
+@media only screen and (min-width: 801px) {
+    .predefined-answer__item {
+    padding: 0 15px;
+}
+}
+.predefined-answer__show-more {
+    height: 48px;
+}
+.predefined-answer__show-more:after {
+    height: 48px;
+}
+.predefined-answer__container {
+    height: 58px;
+}
+.record__title {
+    padding: 10px 24px;
+}
+.record__table {
+    padding: 10px 24px;
+}
+.record {
+    margin-bottom: 30px;
+}
+ul .record:nth-child(odd) {
+    background: #e6e6e652;
+}
+span.record__price.record__price--spent {
+    color: #ff4757;
+}
+.record__date span.fa-num {
+    color: #b9c3ce;
+}
+.record__col.record__col--left span.record__price.fa-num {
+    color: #10ac84;
+}
+.record__col.record__col--title span {
+    font-size: 13px;
+}</style></g> </svg>

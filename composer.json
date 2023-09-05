@@ -1,0 +1,16 @@
+{
+    "name": "ghana/ticket-plugin",
+    "authors": [
+        {
+            "name": "Amirreza",
+            "email": "Ghanavatiamir4@gmail.com"
+        }
+    ],
+    "require": {
+        "morilog/jalali": "3.2.0"
+    },
+
+    "autoload": {
+        "classmap": ["inc/"]
+    }
+}
